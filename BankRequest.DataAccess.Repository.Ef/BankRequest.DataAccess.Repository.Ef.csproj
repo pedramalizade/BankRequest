@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankRequest.Domain.Core\BankRequest.Domain.Core.csproj" />
+    <ProjectReference Include="..\BankRequest.Infra.SqlServer\BankRequest.Infra.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

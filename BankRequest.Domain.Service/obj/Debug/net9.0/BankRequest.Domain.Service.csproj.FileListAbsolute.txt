@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\bin\Debug\net9.0\BankRequest.Domain.Service.deps.json
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\bin\Debug\net9.0\BankRequest.Domain.Service.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\bin\Debug\net9.0\BankRequest.Domain.Service.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\bin\Debug\net9.0\BankRequest.Domain.Core.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\bin\Debug\net9.0\BankRequest.Domain.Core.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.AssemblyInfo.cs
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequ.AA27F554.Up2Date
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\refint\BankRequest.Domain.Service.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\BankRequest.Domain.Service.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Service\obj\Debug\net9.0\ref\BankRequest.Domain.Service.dll

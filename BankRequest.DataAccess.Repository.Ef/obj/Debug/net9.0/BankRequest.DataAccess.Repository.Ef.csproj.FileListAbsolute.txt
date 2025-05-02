@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.deps.json
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.Domain.Core.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.Infra.SqlServer.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.Domain.Core.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\bin\Debug\net9.0\BankRequest.Infra.SqlServer.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.AssemblyInfo.cs
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequ.67698286.Up2Date
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\refint\BankRequest.DataAccess.Repository.Ef.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\ref\BankRequest.DataAccess.Repository.Ef.dll

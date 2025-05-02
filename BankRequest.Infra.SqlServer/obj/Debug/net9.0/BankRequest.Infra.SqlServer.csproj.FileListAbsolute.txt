@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Infra.SqlServer.deps.json
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Infra.SqlServer.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Infra.SqlServer.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Domain.Core.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Domain.Core.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.AssemblyInfo.cs
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequ.027208B7.Up2Date
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\refint\BankRequest.Infra.SqlServer.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\ref\BankRequest.Infra.SqlServer.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Infra.SqlServer.runtimeconfig.json
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\bin\Debug\net9.0\BankRequest.Domain.Core.deps.json
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\bin\Debug\net9.0\BankRequest.Domain.Core.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\bin\Debug\net9.0\BankRequest.Domain.Core.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\BankRequest.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\BankRequest.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\BankRequest.Domain.Core.AssemblyInfo.cs
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\BankRequest.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\BankRequest.Domain.Core.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\refint\BankRequest.Domain.Core.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\BankRequest.Domain.Core.pdb
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.Core\obj\Debug\net9.0\ref\BankRequest.Domain.Core.dll

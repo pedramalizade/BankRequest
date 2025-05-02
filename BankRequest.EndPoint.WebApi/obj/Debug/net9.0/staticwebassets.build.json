@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b+p2lDbDnwEZuOUeG2HRT87NDJJqeGqG+0ZGey07TQ0=",
+  "Source": "BankRequest.EndPoint.WebApi",
+  "BasePath": "_content/BankRequest.EndPoint.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

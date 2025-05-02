@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BankRequest.EndPoint.WebApi.props" />
+</Project>

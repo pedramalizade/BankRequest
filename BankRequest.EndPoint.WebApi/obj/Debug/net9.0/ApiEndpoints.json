@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "BankRequest.EndPoint.WebApi.Controllers.ShebaRequestsController",
+    "Method": "Create",
+    "RelativePath": "api/sheba",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BankRequest.Domain.Core.DTOs.ShebaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankRequest.EndPoint.WebApi.Controllers.ShebaRequestsController",
+    "Method": "GetAll",
+    "RelativePath": "api/sheba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankRequest.EndPoint.WebApi.Controllers.ShebaRequestsController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/sheba/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "BankRequest.Domain.Core.DTOs.StatusUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

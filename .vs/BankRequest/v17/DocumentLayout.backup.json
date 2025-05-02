@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\BankRequest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2D86BA-EB6B-40C7-91EF-4AE64D8925DD}|BankRequest.DataAccess.Repository.Ef\\BankRequest.DataAccess.Repository.Ef.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.dataaccess.repository.ef\\shebarequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2D86BA-EB6B-40C7-91EF-4AE64D8925DD}|BankRequest.DataAccess.Repository.Ef\\BankRequest.DataAccess.Repository.Ef.csproj|solutionrelative:bankrequest.dataaccess.repository.ef\\shebarequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCBC575-8615-43FF-AC04-D186E3B566C6}|BankRequest.Infra.SqlServer\\BankRequest.Infra.SqlServer.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.infra.sqlserver\\configuration\\shebarequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCBC575-8615-43FF-AC04-D186E3B566C6}|BankRequest.Infra.SqlServer\\BankRequest.Infra.SqlServer.csproj|solutionrelative:bankrequest.infra.sqlserver\\configuration\\shebarequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCBC575-8615-43FF-AC04-D186E3B566C6}|BankRequest.Infra.SqlServer\\BankRequest.Infra.SqlServer.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.infra.sqlserver\\configuration\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCBC575-8615-43FF-AC04-D186E3B566C6}|BankRequest.Infra.SqlServer\\BankRequest.Infra.SqlServer.csproj|solutionrelative:bankrequest.infra.sqlserver\\configuration\\accountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCBC575-8615-43FF-AC04-D186E3B566C6}|BankRequest.Infra.SqlServer\\BankRequest.Infra.SqlServer.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.infra.sqlserver\\common\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCBC575-8615-43FF-AC04-D186E3B566C6}|BankRequest.Infra.SqlServer\\BankRequest.Infra.SqlServer.csproj|solutionrelative:bankrequest.infra.sqlserver\\common\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.endpoint.webapi\\controllers\\shebarequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|solutionrelative:bankrequest.endpoint.webapi\\controllers\\shebarequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4450C5E0-3F58-42F9-BF8A-8D068599518E}|BankRequest.Domain.Service\\BankRequest.Domain.Service.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.service\\shebarequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4450C5E0-3F58-42F9-BF8A-8D068599518E}|BankRequest.Domain.Service\\BankRequest.Domain.Service.csproj|solutionrelative:bankrequest.domain.service\\shebarequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F798D66-D804-4027-BAFB-D4EECE97B2E3}|BankRequest.Domain.AppService\\BankRequest.Domain.AppService.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.appservice\\shebarequestappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F798D66-D804-4027-BAFB-D4EECE97B2E3}|BankRequest.Domain.AppService\\BankRequest.Domain.AppService.csproj|solutionrelative:bankrequest.domain.appservice\\shebarequestappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\contracts\\appservice\\ishebarequestappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\contracts\\appservice\\ishebarequestappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\contracts\\service\\ishebarequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\contracts\\service\\ishebarequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\contracts\\repository\\ishebarequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\contracts\\repository\\ishebarequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\dtos\\shebarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\dtos\\shebarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.domain.core\\entites\\shebarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A03CF-6FE8-45FF-8E89-6D7F9249A4A8}|BankRequest.Domain.Core\\BankRequest.Domain.Core.csproj|solutionrelative:bankrequest.domain.core\\entites\\shebarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.endpoint.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|solutionrelative:bankrequest.endpoint.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 747,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IShebaRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Contracts\\Repository\\IShebaRequestRepository.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\Contracts\\Repository\\IShebaRequestRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Contracts\\Repository\\IShebaRequestRepository.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\Contracts\\Repository\\IShebaRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:35:56.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShebaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\DTOs\\ShebaRequestDto.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\DTOs\\ShebaRequestDto.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\DTOs\\ShebaRequestDto.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\DTOs\\ShebaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:35:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Entites\\Account.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\Entites\\Account.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Entites\\Account.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\Entites\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:34:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShebaRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Service\\ShebaRequestService.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Service\\ShebaRequestService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Service\\ShebaRequestService.cs",
+              "RelativeToolTip": "BankRequest.Domain.Service\\ShebaRequestService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:08:46.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShebaRequestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Infra.SqlServer\\Configuration\\ShebaRequestConfiguration.cs",
+              "RelativeDocumentMoniker": "BankRequest.Infra.SqlServer\\Configuration\\ShebaRequestConfiguration.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Infra.SqlServer\\Configuration\\ShebaRequestConfiguration.cs",
+              "RelativeToolTip": "BankRequest.Infra.SqlServer\\Configuration\\ShebaRequestConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:37:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShebaRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "RelativeDocumentMoniker": "BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "RelativeToolTip": "BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:51:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Infra.SqlServer\\Common\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BankRequest.Infra.SqlServer\\Common\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Infra.SqlServer\\Common\\AppDbContext.cs",
+              "RelativeToolTip": "BankRequest.Infra.SqlServer\\Common\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:39:21.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShebaRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.DataAccess.Repository.Ef\\ShebaRequestRepository.cs",
+              "RelativeDocumentMoniker": "BankRequest.DataAccess.Repository.Ef\\ShebaRequestRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.DataAccess.Repository.Ef\\ShebaRequestRepository.cs",
+              "RelativeToolTip": "BankRequest.DataAccess.Repository.Ef\\ShebaRequestRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:09:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Infra.SqlServer\\Configuration\\AccountConfiguration.cs",
+              "RelativeDocumentMoniker": "BankRequest.Infra.SqlServer\\Configuration\\AccountConfiguration.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Infra.SqlServer\\Configuration\\AccountConfiguration.cs",
+              "RelativeToolTip": "BankRequest.Infra.SqlServer\\Configuration\\AccountConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:26:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Enums\\RequestStatus.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\Enums\\RequestStatus.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Enums\\RequestStatus.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\Enums\\RequestStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:57:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShebaRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Contracts\\Service\\IShebaRequestService.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\Contracts\\Service\\IShebaRequestService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Contracts\\Service\\IShebaRequestService.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\Contracts\\Service\\IShebaRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:00:41.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShebaRequestAppService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.AppService\\ShebaRequestAppService.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.AppService\\ShebaRequestAppService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.AppService\\ShebaRequestAppService.cs",
+              "RelativeToolTip": "BankRequest.Domain.AppService\\ShebaRequestAppService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:04:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShebaRequestAppService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Contracts\\AppService\\IShebaRequestAppService.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\Contracts\\AppService\\IShebaRequestAppService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Contracts\\AppService\\IShebaRequestAppService.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\Contracts\\AppService\\IShebaRequestAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:05:23.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShebaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Entites\\ShebaRequest.cs",
+              "RelativeDocumentMoniker": "BankRequest.Domain.Core\\Entites\\ShebaRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.Domain.Core\\Entites\\ShebaRequest.cs",
+              "RelativeToolTip": "BankRequest.Domain.Core\\Entites\\ShebaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:43:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BankRequest.EndPoint.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Program.cs",
+              "RelativeToolTip": "BankRequest.EndPoint.WebApi\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:20:32.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
