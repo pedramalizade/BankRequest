@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\BankRequest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.endpoint.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|solutionrelative:bankrequest.endpoint.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.endpoint.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|solutionrelative:bankrequest.endpoint.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|c:\\users\\asus\\source\\repos\\bankrequest\\bankrequest.endpoint.webapi\\controllers\\shebarequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC9F207-0E67-46F9-8FB8-BEFA82022C3D}|BankRequest.EndPoint.WebApi\\BankRequest.EndPoint.WebApi.csproj|solutionrelative:bankrequest.endpoint.webapi\\controllers\\shebarequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 747,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BankRequest.EndPoint.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\appsettings.json",
+              "RelativeToolTip": "BankRequest.EndPoint.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T06:52:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BankRequest.EndPoint.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Program.cs",
+              "RelativeToolTip": "BankRequest.EndPoint.WebApi\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:50:01.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShebaRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "RelativeDocumentMoniker": "BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BankRequest\\BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "RelativeToolTip": "BankRequest.EndPoint.WebApi\\Controllers\\ShebaRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:48:37.449Z",
+              "EditorCaption": ""
             }
           ]
         }

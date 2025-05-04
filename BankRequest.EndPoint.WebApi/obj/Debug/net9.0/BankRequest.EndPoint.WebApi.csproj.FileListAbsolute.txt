@@ -181,3 +181,4 @@ C:\Users\asus\source\repos\BankRequest\BankRequest.EndPoint.WebApi\obj\Debug\net
 C:\Users\asus\source\repos\BankRequest\BankRequest.EndPoint.WebApi\obj\Debug\net9.0\BankRequest.EndPoint.WebApi.pdb
 C:\Users\asus\source\repos\BankRequest\BankRequest.EndPoint.WebApi\obj\Debug\net9.0\BankRequest.EndPoint.WebApi.genruntimeconfig.cache
 C:\Users\asus\source\repos\BankRequest\BankRequest.EndPoint.WebApi\obj\Debug\net9.0\ref\BankRequest.EndPoint.WebApi.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.EndPoint.WebApi\obj\Debug\net9.0\BankRequest.EndPoint.WebApi.sourcelink.json
