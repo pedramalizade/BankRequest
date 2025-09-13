@@ -1,0 +1,12 @@
+﻿global using BankRequest.DataAccess.Repository.Ef;
+global using BankRequest.Domain.AppService;
+global using BankRequest.Domain.Core.Contracts.AppService;
+global using BankRequest.Domain.Core.Contracts.Repository;
+global using BankRequest.Domain.Core.Contracts.Service;
+global using BankRequest.Domain.Service;
+global using BankRequest.Infra.SqlServer.Common;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.OpenApi.Models;
+global using BankRequest.Domain.Core.DTOs;
+global using BankRequest.Domain.Core.Enums;
+global using Microsoft.AspNetCore.Mvc;

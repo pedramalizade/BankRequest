@@ -1,13 +1,3 @@
-using BankRequest.DataAccess.Repository.Ef;
-using BankRequest.Domain.AppService;
-using BankRequest.Domain.Core.Contracts.AppService;
-using BankRequest.Domain.Core.Contracts.Repository;
-using BankRequest.Domain.Core.Contracts.Service;
-using BankRequest.Domain.Service;
-using BankRequest.Infra.SqlServer.Common;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AppDbContext>(options =>

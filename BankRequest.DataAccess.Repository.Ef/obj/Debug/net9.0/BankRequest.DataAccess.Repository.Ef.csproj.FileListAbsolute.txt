@@ -15,3 +15,4 @@ C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\
 C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\refint\BankRequest.DataAccess.Repository.Ef.dll
 C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.pdb
 C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\ref\BankRequest.DataAccess.Repository.Ef.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.DataAccess.Repository.Ef\obj\Debug\net9.0\BankRequest.DataAccess.Repository.Ef.sourcelink.json

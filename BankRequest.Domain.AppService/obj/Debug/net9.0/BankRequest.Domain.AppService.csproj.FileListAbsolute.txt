@@ -13,3 +13,4 @@ C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.AppService\obj\Debug\n
 C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.AppService\obj\Debug\net9.0\refint\BankRequest.Domain.AppService.dll
 C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.AppService\obj\Debug\net9.0\BankRequest.Domain.AppService.pdb
 C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.AppService\obj\Debug\net9.0\ref\BankRequest.Domain.AppService.dll
+C:\Users\asus\source\repos\BankRequest\BankRequest.Domain.AppService\obj\Debug\net9.0\BankRequest.Domain.AppService.sourcelink.json

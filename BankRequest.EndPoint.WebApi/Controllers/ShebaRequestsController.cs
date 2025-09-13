@@ -1,10 +1,4 @@
-﻿using BankRequest.Domain.AppService;
-using BankRequest.Domain.Core.Contracts.AppService;
-using BankRequest.Domain.Core.DTOs;
-using BankRequest.Domain.Core.Enums;
-using Microsoft.AspNetCore.Mvc;
-
-namespace BankRequest.EndPoint.WebApi.Controllers
+﻿namespace BankRequest.EndPoint.WebApi.Controllers
 {
     [ApiController]
     [Route("api/sheba")]

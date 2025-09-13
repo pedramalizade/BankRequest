@@ -1,14 +1,4 @@
-﻿using BankRequest.Domain.Core.Entites;
-using BankRequest.Domain.Core.Enums;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BankRequest.Infra.SqlServer.Configuration
+﻿namespace BankRequest.Infra.SqlServer.Configuration
 {
     public class ShebaRequestConfiguration : IEntityTypeConfiguration<ShebaRequest>
     {

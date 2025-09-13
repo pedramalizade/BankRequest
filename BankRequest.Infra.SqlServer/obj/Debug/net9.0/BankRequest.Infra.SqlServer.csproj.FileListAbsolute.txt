@@ -15,3 +15,4 @@ C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net
 C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\ref\BankRequest.Infra.SqlServer.dll
 C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\bin\Debug\net9.0\BankRequest.Infra.SqlServer.runtimeconfig.json
 C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.genruntimeconfig.cache
+C:\Users\asus\source\repos\BankRequest\BankRequest.Infra.SqlServer\obj\Debug\net9.0\BankRequest.Infra.SqlServer.sourcelink.json

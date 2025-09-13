@@ -1,15 +1,4 @@
-﻿using BankRequest.Domain.Core.Contracts.Repository;
-using BankRequest.Domain.Core.Entites;
-using BankRequest.Domain.Core.Enums;
-using BankRequest.Infra.SqlServer.Common;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BankRequest.DataAccess.Repository.Ef
+﻿namespace BankRequest.DataAccess.Repository.Ef
 {
     public class ShebaRequestRepository : IShebaRequestRepository
     {

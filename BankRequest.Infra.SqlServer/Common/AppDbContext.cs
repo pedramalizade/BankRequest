@@ -1,15 +1,4 @@
-﻿using BankRequest.Domain.Core.Entites;
-using BankRequest.Infra.SqlServer.Configuration;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
-using System.Transactions;
-
-namespace BankRequest.Infra.SqlServer.Common
+﻿namespace BankRequest.Infra.SqlServer.Common
 {
     public class AppDbContext : DbContext
     {
