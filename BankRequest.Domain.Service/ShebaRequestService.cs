@@ -9,6 +9,7 @@
             _repository = repository;
         }
 
+        /// <summary>ایجاد درخواست شبا از DTO</summary>
         public async Task<object> CreateRequestAsync(ShebaRequestDto dto, CancellationToken cancellationToken)
         {
             try
@@ -34,6 +35,7 @@
             }
         }
 
+        /// <summary>ایجاد و اعتبارسنجی درخواست شبا</summary>
         public async Task<ShebaRequest> CreateAsync(ShebaRequest request, CancellationToken cancellationToken)
         {
             if (!Regex.IsMatch(request.FromShebaNumber, @"^IR\d{22}$") ||
@@ -63,11 +65,13 @@
             return request;
         }
 
+        /// <summary>دریافت همه درخواست‌ها</summary>
         public async Task<List<ShebaRequest>> GetAllAsync(CancellationToken cancellationToken)
         {
             return await _repository.GetAllAsync(cancellationToken);
         }
 
+        /// <summary>تغییر وضعیت درخواست</summary>
         public async Task<ShebaRequest?> UpdateStatusAsync(int id, RequestStatus status, string note, CancellationToken cancellationToken)
         {
             var updatedRequest = await _repository.UpdateStatusAsync(id, status, note, cancellationToken);

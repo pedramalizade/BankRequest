@@ -9,6 +9,7 @@
             _service = service;
         }
 
+        /// <summary>ایجاد درخواست شبا</summary>
         public async Task<object> CreateRequestAsync(ShebaRequestDto dto, CancellationToken cancellationToken)
         {
             try
@@ -34,11 +35,13 @@
             }
         }
 
+        /// <summary>دریافت همه درخواست‌ها</summary>
         public async Task<List<ShebaRequest>> GetAllAsync(CancellationToken cancellationToken)
         {
             return await _service.GetAllAsync(cancellationToken);
         }
 
+        /// <summary>تغییر وضعیت درخواست</summary>
         public async Task<object> UpdateStatusAsync(int id, RequestStatus status, string note, CancellationToken cancellationToken)
         {
             var updated = await _service.UpdateStatusAsync(id, status, note, cancellationToken);
