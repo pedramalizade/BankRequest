@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankRequest.Domain.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1274bf22762659d749054f4bba7ec29b11732e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8143ee57f939d390c6abc14cd6b0a393da859178")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankRequest.Domain.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankRequest.Domain.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
