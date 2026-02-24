@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankRequest.DataAccess.Repository.Ef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e70d03af1faffc4f51d26854b94dbff7930abc9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23d6bea82954e95b30fbc0b96376d3ab07b50845")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankRequest.DataAccess.Repository.Ef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankRequest.DataAccess.Repository.Ef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
