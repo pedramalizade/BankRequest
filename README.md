@@ -11,7 +11,6 @@ This project simulates a banking request workflow system where users can create 
 It is designed with a strong emphasis on correctness, consistency, and maintainability.
 
 ---
-
 ## 🏗️ Architecture
 
 Built using **Clean Architecture principles**:
