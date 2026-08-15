@@ -9,7 +9,6 @@ It focuses on handling banking-style operations such as request creation, valida
 This project simulates a banking request workflow system where users can create financial requests that go through validation and processing pipelines.
 
 It is designed with a strong emphasis on correctness, consistency, and maintainability.
-
 ---
 ## 🏗️ Architecture
 
