@@ -48,9 +48,7 @@ Built using **Clean Architecture principles**:
 - Separation of concerns
 - Validation pipeline
 - Scalable workflow design
-
 ---
-
 ## 🛠 Tech Stack
 
 - ASP.NET Core (.NET)
