@@ -38,9 +38,7 @@ Built using **Clean Architecture principles**:
 
 - 🗄️ **Persistence Layer**
   - Entity Framework Core integration
-
 ---
-
 ## 🧠 Design Concepts
 
 - Clean Architecture
