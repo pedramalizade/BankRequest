@@ -48,7 +48,6 @@ Built using **Clean Architecture principles**:
 - Scalable workflow design
 ---
 ## 🛠 Tech Stack
-
 - ASP.NET Core (.NET)
 - Entity Framework Core
 - SQL Server
