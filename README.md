@@ -20,7 +20,6 @@ Built using **Clean Architecture principles**:
 - API Layer: REST endpoints
 ---
 ## ✨ Key Features
-
 - 💳 **Bank Request Management**
   - Create financial requests
   - Track request status
