@@ -37,7 +37,6 @@ Built using **Clean Architecture principles**:
   - Entity Framework Core integration
 ---
 ## 🧠 Design Concepts
-
 - Clean Architecture
 - Domain-driven design principles
 - Separation of concerns
