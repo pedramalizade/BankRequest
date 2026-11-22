@@ -13,7 +13,6 @@ It is designed with a strong emphasis on correctness, consistency, and maintaina
 ## 🏗️ Architecture
 
 Built using **Clean Architecture principles**:
-
 - Domain Layer: Core financial business rules
 - Application Layer: Request processing logic
 - Infrastructure Layer: Data persistence and services
