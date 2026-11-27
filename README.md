@@ -23,7 +23,6 @@ Built using **Clean Architecture principles**:
   - Create financial requests
   - Track request status
   - Validate request rules
-
 - 🔐 **Secure Access**
   - JWT authentication
   - Role-based authorization
